@@ -9,54 +9,47 @@
  * }
  */
 class Solution {
+    private ListNode reverseLL(ListNode head) {
+       ListNode prev = null;
+        ListNode temp = head;
+
+          while(temp != null) {
+            ListNode front = temp.next;
+            temp.next = prev;
+            prev = temp;
+            temp = front;
+          }
+          return prev;
+    }
+    private ListNode findKth(ListNode temp, int k) {
+        int count = 1;
+        while(temp != null && count != k) {
+            count++;
+            temp = temp.next;
+        }
+        return temp;
+    }
     public ListNode reverseKGroup(ListNode head, int k) {
-        if(k <= 1 || head == null) {
+        if(head == null || head.next == null) {
             return head;
         }
-
-        ListNode current = head;
-        ListNode prev = null;
-
-        while(true) {
-            ListNode temp = new ListNode();
-            int count = 0;
-            temp = current;
-            
-            while(temp != null && count < k) {
-                temp = temp.next;
-                count++;
-            }
-       
-            if(count < k) {
-                break;
-            }     
-            
-            ListNode last = prev;
-            ListNode newEnd = current;
-            ListNode next = current.next;
-           
-            for(int i = 0; i<k && current != null; i++) {
-                current.next = prev;
-                prev = current;
-                current = next;
-
-                if(next != null) {
-                    next = next.next;
-                }
-            } 
-            if(last != null) {
-                last.next = prev;
-            } else {
-                head = prev;
-            }
-
-            newEnd.next = current;
-
-            if(current == null) {
+        ListNode temp = head;
+        ListNode prevNode = null;
+        while(temp != null) {
+          ListNode kth = findKth(temp, k);
+          if(kth == null) {
+                if(prevNode != null)
+                prevNode.next = temp;
                 break;
             }
-
-            prev = newEnd;
+            ListNode nextNode = kth.next;
+            kth.next = null;
+            reverseLL(temp); 
+          if(temp == head) {
+                head = kth;
+            } else prevNode.next = kth; 
+            prevNode = temp;
+            temp = nextNode;
         }
         return head;
     }
