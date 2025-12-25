@@ -1,22 +1,15 @@
 class Solution {
     public double myPow(double x, int n) {
-        long N = n; 
-        if (N < 0) {
-            x = 1 / x;
-            N = -N;
+        if (n == 0) return 1.0;
+        if (n < 0) {
+            return 1.0 / myPow(x, -(n + 1)) / x;
+        }  
+        if(n == 1) {
+            return x;
         }
-
-        double result = 1;
-        double currentProduct = x;
-
-        while (N > 0) {
-            if ((N % 2) == 1) { 
-                result *= currentProduct;
-            }
-            currentProduct *= currentProduct; 
-            N /= 2;
+        if(n%2 == 1) {
+            return x*myPow(x, n-1);
         }
-
-        return result;
+        return myPow(x*x, n/2);
     }
 }
