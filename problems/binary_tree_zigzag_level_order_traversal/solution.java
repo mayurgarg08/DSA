@@ -1,57 +1,31 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> result = new ArrayList<>();
+        Queue<TreeNode> qu = new LinkedList<TreeNode>();
+        List<List<Integer>> wraplist = new LinkedList<List<Integer>>();
+        if (root == null) return wraplist;
 
-        if(root == null) {
-            return result;
-        }   
+        qu.offer(root);
+        int turn = 0;
 
-        Deque<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
-        boolean reverse = false;
-        while(!queue.isEmpty()) {
-        int levelSize = queue.size();
-        List<Integer> currentLevel = new ArrayList<>(levelSize);
-        
-       for(int i = 0; i< levelSize; i++) {
-          if(!reverse) {
-          TreeNode currentNode = queue.pollFirst();
-          currentLevel.add(currentNode.val);
-          if(currentNode.left != null) {
-            queue.addLast(currentNode.left);
-          }
-          if(currentNode.right != null) {
-            queue.addLast(currentNode.right);
-          }
-          } else {
-          TreeNode currentNode = queue.pollLast();
-          currentLevel.add(currentNode.val);
-          if(currentNode.right != null) {
-            queue.addFirst(currentNode.right);
-          }
-          if(currentNode.left != null) {
-            queue.addFirst(currentNode.left);
-          }
-          }
-       }
-       reverse = !reverse;
-       result.add(currentLevel);
+        while(!qu.isEmpty()) {
+            int size = qu.size();
+            List<Integer> temp = new ArrayList<>();
+
+            for(int i = 0; i < size; i++) {
+                TreeNode it = qu.poll();
+
+                if(turn == 0) {
+                    temp.add(it.val);
+                } else {
+                    temp.add(0, it.val);
+                }
+                if(it.left != null) qu.offer(it.left);
+                if(it.right != null) qu.offer(it.right);
+            }
+
+            wraplist.add(temp);
+            turn = turn == 0 ? 1 : 0; 
         }
-       return result;
+        return wraplist;
     }
 }
