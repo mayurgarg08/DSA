@@ -11,41 +11,59 @@ public class Codec {
 
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
-        List<String> list = new ArrayList<>();
-        helper(root, list);
-        String result = String.join(",", list);
-        return result;
+        if (root == null) return "";
+
+    Queue<TreeNode> q = new LinkedList<>();
+    StringBuilder res = new StringBuilder();
+
+    q.offer(root);
+
+    while (!q.isEmpty()) {
+        TreeNode node = q.poll();
+
+        if (node == null) {
+            res.append("null,");
+            continue;
+        }
+
+        res.append(node.val).append(",");
+        q.offer(node.left);
+        q.offer(node.right);
     }
 
-    // Helper method for serialization (preorder traversal).
-    public void helper(TreeNode node, List<String> list) {
-        if (node == null) {
-            list.add("X");  // Using "X" as the null marker
-            return;
-        }
-        list.add(String.valueOf(node.val));  // Add current node's value
-        helper(node.left, list);  // Recursively serialize left subtree
-        helper(node.right, list);  // Recursively serialize right subtree
+    return res.toString();
     }
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        String[] values = data.split(",");
-        Queue<String> queue = new LinkedList<>(Arrays.asList(values));
-        return helper2(queue);  // Start deserialization using a queue
+         if (data.equals("")) return null;
+
+    String[] values = data.split(",");
+    TreeNode root = new TreeNode(Integer.parseInt(values[0]));
+
+    Queue<TreeNode> q = new LinkedList<>();
+    q.offer(root);
+
+    int i = 1;
+    while (!q.isEmpty() && i < values.length) {
+        TreeNode parent = q.poll();
+
+        // left
+        if (!values[i].equals("null")) {
+            parent.left = new TreeNode(Integer.parseInt(values[i]));
+            q.offer(parent.left);
+        }
+        i++;
+
+        // right
+        if (i < values.length && !values[i].equals("null")) {
+            parent.right = new TreeNode(Integer.parseInt(values[i]));
+            q.offer(parent.right);
+        }
+        i++;
     }
 
-    // Helper method for deserialization using a queue of values.
-    public TreeNode helper2(Queue<String> queue) {
-        String value = queue.poll();  // Get the next value from the queue
-        if (value.equals("X")) {
-            return null;  // If the value is "X", it represents a null node
-        }
-
-        TreeNode node = new TreeNode(Integer.parseInt(value));  // Create a new node
-        node.left = helper2(queue);  // Recursively construct the left subtree
-        node.right = helper2(queue);  // Recursively construct the right subtree
-        return node;
+    return root;
     }
 }
 
