@@ -15,23 +15,24 @@
  */
 class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        if(preorder.length == 0) {
-            return null;
-        }
-        int r = preorder[0];
-        int index = 0;
-
-        for(int i = 0; i<inorder.length; i++) {
-            if(inorder[i] == r) {
-                index = i;
-            }
+        Map<Integer, Integer> mpp = new HashMap<>();
+        for(int i = 0; i< inorder.length; i++) {
+            mpp.put(inorder[i], i);
         }
 
-        TreeNode root = new TreeNode(r);
+        TreeNode root = build(preorder, 0, preorder.length-1, inorder, 0, inorder.length-1, mpp);
+        return root;
+    }
+    private TreeNode build(int[] preOrder, int preStart, int preEnd, int[] inorder, int inStart, int inEnd, Map<Integer, Integer> mpp) {
+        if(preStart > preEnd || inStart > inEnd) return null;
 
-        root.left = buildTree(Arrays.copyOfRange(preorder, 1, index+1), Arrays.copyOfRange(inorder, 0, index));
-        
-        root.right = buildTree(Arrays.copyOfRange(preorder, index+1, preorder.length), Arrays.copyOfRange(inorder, index+1, inorder.length));
+        TreeNode root = new TreeNode(preOrder[preStart]);
+
+        int inRoot = mpp.get(root.val);
+        int numsLeft = inRoot -inStart;
+
+        root.left = build(preOrder, preStart+1, preStart+numsLeft, inorder, inStart, inRoot-1, mpp);
+        root.right = build(preOrder, preStart+numsLeft+1, preEnd, inorder, inRoot+1, inEnd, mpp);
 
         return root;
     }
