@@ -14,29 +14,17 @@
  * }
  */
 class Solution {
-    int count = 0;
+    private void findInorder(List<Integer> inorder, TreeNode root) {
+        if(root != null) {
+            findInorder(inorder, root.left);
+            inorder.add(root.val);
+            findInorder(inorder, root.right);
+        }
+    }
     public int kthSmallest(TreeNode root, int k) {
-        return helper(root, k).val;
+        List<Integer> inorder = new ArrayList<>();
+        findInorder(inorder, root);
+        int kth_Smallest = inorder.get(k-1);
+        return kth_Smallest;
     }
-
-    public TreeNode helper(TreeNode root, int k) {
-        if(root == null) {
-            return null;
-        }
-
-        TreeNode left = helper(root.left, k);
-
-        if(left != null) {
-            return left;
-        }
-
-        count++;
-        
-        if(count == k) {
-            return root;
-        }
-
-        return helper(root.right, k);
-    }
-
 }
