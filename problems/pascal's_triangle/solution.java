@@ -1,18 +1,20 @@
-import java.util.*;
-
 class Solution {
-    public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> pascal = new ArrayList<>();
-
-        for (int i = 0; i < numRows; i++) {
-            List<Integer> row = new ArrayList<>(Collections.nCopies(i + 1, 1));
-            
-            for (int j = 1; j < i; j++) {
-                int val = pascal.get(i - 1).get(j - 1) + pascal.get(i - 1).get(j);
-                row.set(j, val);
-            }
-            pascal.add(row);
+    private List<Integer> generateRow(int row) {
+        int ans = 1;
+        List<Integer> ansRow = new ArrayList<>();
+        ansRow.add(ans);
+        for(int col = 1; col < row; col++) {
+            ans = ans * (row - col);
+            ans = ans/col;
+            ansRow.add(ans);
         }
-        return pascal;
+        return ansRow;
+    }
+    public List<List<Integer>> generate(int numRows) {
+        List<List<Integer>> ans = new ArrayList<>();
+        for(int row = 1; row <= numRows; row++) {
+            ans.add(generateRow(row));
+        }
+        return ans;
     }
 }
