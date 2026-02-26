@@ -1,24 +1,39 @@
 class Solution {
-    static final int INT_MIN_VAL = -2147483648;
-    static final int INT_MAX_VAL = 2147483647;
-    private int helper (String s, int i, long num, int sign) {
-        if(i >= s.length() || !Character.isDigit(s.charAt(i)))
-            return (int)(sign*num);
-
-        num = num*10 + (s.charAt(i)-'0');
-        if (sign * num <= INT_MIN_VAL) return INT_MIN_VAL;
-        if (sign * num >= INT_MAX_VAL) return INT_MAX_VAL;
-        
-        return helper(s, i+1, num, sign);
-    } 
     public int myAtoi(String s) {
-        int i = 0;
-        while(i < s.length() && s.charAt(i) == ' ') i++;
-        int sign = 1;
-        if(i < s.length() && (s.charAt(i) == '-' || s.charAt(i) == '+')) {
-            sign = (s.charAt(i) == '-')?-1:1;
-            i++;
+        int n = s.length();
+        int ans = 0;
+        boolean neg = false;
+        boolean started = false;  
+
+        for (int i = 0; i < n; i++) {
+            char ch = s.charAt(i);
+
+            if (ch == ' ' && !started) {
+                continue;
+            }
+
+            if ((ch == '-' || ch == '+') && !started) {
+                neg = (ch == '-');
+                started = true;
+                continue;
+            }
+
+            if (ch >= '0' && ch <= '9') {
+                started = true;
+                int digit = ch - '0';
+
+                if (ans > Integer.MAX_VALUE / 10 ||
+                   (ans == Integer.MAX_VALUE / 10 && digit > 7)) {
+                    return neg ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+                }
+
+                ans = ans * 10 + digit;
+            } 
+            else {
+                break;
+            }
         }
-      return helper(s, i, 0, sign);
+
+        return neg ? -ans : ans;
     }
 }
