@@ -1,26 +1,29 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
-        if(n == 0) return 0;
-
-        int[] left = new int[n];
-        int[] right = new int[n];
-        int minPrice = prices[0];
-
-        for(int i = 1; i < n; i++) {
-            minPrice = Math.min(minPrice, prices[i]);
-            left[i] = Math.max(left[i-1], prices[i] - minPrice);
+        int[][] after = new int[2][3];
+        int profit;
+        for(int idx = n-1; idx >= 0; idx--) {
+            int[][] curr = new int[2][3];
+            for(int buy = 0; buy < 2; buy++) {
+                for(int cap = 1; cap < 3; cap++) {
+                    if(buy == 1) {
+                    profit = Math.max(-prices[idx] + after[0][cap], 0 + after[1][cap]);
+                    } else {
+                    profit = Math.max(prices[idx] + after[1][cap-1], 0 + after[0][cap]);
+                    }
+                    curr[buy][cap] = profit;
+                }
+            }
+              after = curr;
         }
-
-        int maxPrice = prices[n-1];
-        for(int i = n-2; i >= 0; i--) {
-            maxPrice = Math.max(maxPrice, prices[i]);
-            right[i] = Math.max(right[i+1], maxPrice - prices[i]);
-        }
-         int ans = 0;
-         for(int i = 0; i< n; i++) {
-           ans = Math.max(ans, left[i] + right[i]);
-         } 
-         return ans;
+       return after[1][2];
     }
+    // private int helper(int idx, int buy, int[] prices, int cap, int[][][] dp) {
+    //     if(idx == prices.length) return 0;
+    //     if(cap == 0) return 0;
+    //     if(dp[idx][buy][cap] != -1) return dp[idx][buy][cap];
+    //     int profit;
+     
+    // }
 }
