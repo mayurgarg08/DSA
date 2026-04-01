@@ -1,34 +1,27 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        List<Integer> res = new ArrayList<>();
-
-        for (int n : nums) {
-            if (res.isEmpty() || res.get(res.size() - 1) < n) {
-                res.add(n);
-            } else {
-                int idx = binarySearch(res, n);
-                res.set(idx, n);
+        int n = nums.length;
+        int[][] dp = new int[n+1][n+1];
+        for(int idx = n-1; idx >= 0; idx--) {
+            for(int prev = idx-1; prev >= -1; prev--) {
+                int len = 0 + dp[idx+1][prev+1];
+                if(prev == -1 || nums[idx] > nums[prev]) {
+                   len = Math.max(len, 1 + dp[idx+1][idx+1]);
+                }
+                dp[idx][prev+1] = len;
             }
         }
-
-        return res.size();        
+        return dp[0][0];
     }
-
-    private int binarySearch(List<Integer> arr, int target) {
-        int left = 0;
-        int right = arr.size() - 1;
-
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            if (arr.get(mid) == target) {
-                return mid;
-            } else if (arr.get(mid) > target) {
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
-        }
-
-        return left;
-    }    
+    // private int helper(int idx, int prev, int[][] dp, int[] nums) {
+    //     if(idx == nums.length) {
+    //         return 0;
+    //     }
+    //     if(dp[idx][prev+1] != -1) return dp[idx][prev+1];
+    //     int len = 0 + helper(idx+1, prev, dp, nums);
+    //     if(prev == -1 || nums[idx] > nums[prev]) {
+    //         len = Math.max(len, 1 + helper(idx+1, idx, dp, nums));
+    //     }
+    //     return dp[idx][prev+1] = len;
+    // }
 }
