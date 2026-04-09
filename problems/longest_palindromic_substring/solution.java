@@ -1,55 +1,26 @@
 class Solution {
     public String longestPalindrome(String s) {
-        int n = s.length();
-        int maxLen = 1;
-        StringBuilder ans = new StringBuilder();
-        ans.append(s.charAt(0));
-        
-        for (int i = 0; i < n; i++) {
+        int start = 0, end = 0;
 
-            int j = i - 1;
-            int k = i + 1;
-            int count = 1;
-            StringBuilder temp = new StringBuilder();
-            temp.append(s.charAt(i));
+        for(int i = 0; i < s.length(); i++) {
+            int len1 = expand(s, i, i);     
+            int len2 = expand(s, i, i + 1);
 
-            while (j >= 0 && k < n) {
-                if (s.charAt(j) == s.charAt(k)) {
-                    count += 2;
-                    temp.insert(0, s.charAt(j));
-                    temp.append(s.charAt(k));
-                    if (count > maxLen) {
-                        ans = new StringBuilder(temp); // copy
-                        maxLen = count;
-                    }
-                    j--;
-                    k++;
-                } else {
-                    break; 
-                }
-            }
+            int len = Math.max(len1, len2);
 
-            j = i;
-            k = i + 1;
-            count = 0;
-            temp = new StringBuilder();
-
-            while (j >= 0 && k < n) {
-                if (s.charAt(j) == s.charAt(k)) {
-                    count += 2;
-                    temp.insert(0, s.charAt(j));
-                    temp.append(s.charAt(k));
-                    if (count > maxLen) {
-                        ans = new StringBuilder(temp); // copy
-                        maxLen = count;
-                    }
-                    j--;
-                    k++;
-                } else {
-                    break; 
-                }
+            if(len > end - start) {
+                start = i - (len - 1) / 2;
+                end = i + len / 2;
             }
         }
-        return ans.toString();
+        return s.substring(start, end + 1);
+    }
+
+    private int expand(String s, int left, int right) {
+        while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            left--;
+            right++;
+        }
+        return right - left - 1;
     }
 }
