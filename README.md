@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/mayurgarg08/DSA/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/mayurgarg08/DSA/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/mayurgarg08/DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/mayurgarg08/DSA/tree/master/0605-can-place-flowers) |
 ## Array
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mayurgarg08/DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/mayurgarg08/DSA/tree/master/0605-can-place-flowers) |
 ## Sorting
 |  |
 | ------- |
