@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/mayurgarg08/DSA/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/mayurgarg08/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0984-string-without-aaa-or-bbb](https://github.com/mayurgarg08/DSA/tree/master/0984-string-without-aaa-or-bbb) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mayurgarg08/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2027-minimum-moves-to-convert-string](https://github.com/mayurgarg08/DSA/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mayurgarg08/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayurgarg08/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/mayurgarg08/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0942-di-string-match](https://github.com/mayurgarg08/DSA/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/mayurgarg08/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mayurgarg08/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mayurgarg08/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mayurgarg08/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayurgarg08/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
