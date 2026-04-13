@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/mayurgarg08/DSA/tree/master/0942-di-string-match) |
 | [0984-string-without-aaa-or-bbb](https://github.com/mayurgarg08/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/mayurgarg08/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayurgarg08/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/mayurgarg08/DSA/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/mayurgarg08/DSA/tree/master/0621-task-scheduler) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayurgarg08/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayurgarg08/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mayurgarg08/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Greedy
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mayurgarg08/DSA/tree/master/0621-task-scheduler) |
 | [0976-largest-perimeter-triangle](https://github.com/mayurgarg08/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [2706-buy-two-chocolates](https://github.com/mayurgarg08/DSA/tree/master/2706-buy-two-chocolates) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayurgarg08/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting Sort
 |  |
 | ------- |
