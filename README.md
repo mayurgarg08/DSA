@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/mayurgarg08/DSA/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/mayurgarg08/DSA/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/mayurgarg08/DSA/tree/master/0561-array-partition) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0474-ones-and-zeroes) |
 | [0561-array-partition](https://github.com/mayurgarg08/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/mayurgarg08/DSA/tree/master/0605-can-place-flowers) |
