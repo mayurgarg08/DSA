@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mayurgarg08/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayurgarg08/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayurgarg08/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/mayurgarg08/DSA/tree/master/0162-find-peak-element) |
 | [0334-increasing-triplet-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0376-wiggle-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayurgarg08/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mayurgarg08/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayurgarg08/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayurgarg08/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/mayurgarg08/DSA/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/mayurgarg08/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/mayurgarg08/DSA/tree/master/0704-binary-search) |
 | [3488-closest-equal-element-queries](https://github.com/mayurgarg08/DSA/tree/master/3488-closest-equal-element-queries) |
