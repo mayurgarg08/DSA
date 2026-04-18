@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/mayurgarg08/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mayurgarg08/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mayurgarg08/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0704-binary-search](https://github.com/mayurgarg08/DSA/tree/master/0704-binary-search) |
 | [0942-di-string-match](https://github.com/mayurgarg08/DSA/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/mayurgarg08/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mayurgarg08/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/mayurgarg08/DSA/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/mayurgarg08/DSA/tree/master/0704-binary-search) |
 | [3488-closest-equal-element-queries](https://github.com/mayurgarg08/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Heap (Priority Queue)
 |  |
