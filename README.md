@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/mayurgarg08/DSA/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/mayurgarg08/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/mayurgarg08/DSA/tree/master/0942-di-string-match) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/mayurgarg08/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayurgarg08/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mayurgarg08/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mayurgarg08/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/mayurgarg08/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mayurgarg08/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mayurgarg08/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayurgarg08/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayurgarg08/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayurgarg08/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayurgarg08/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/mayurgarg08/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/mayurgarg08/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Heap (Priority Queue)
 |  |
