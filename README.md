@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/mayurgarg08/DSA/tree/master/2027-minimum-moves-to-convert-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mayurgarg08/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mayurgarg08/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/mayurgarg08/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/mayurgarg08/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayurgarg08/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/mayurgarg08/DSA/tree/master/0767-reorganize-string) |
 | [1051-height-checker](https://github.com/mayurgarg08/DSA/tree/master/1051-height-checker) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mayurgarg08/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2833-furthest-point-from-origin](https://github.com/mayurgarg08/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
