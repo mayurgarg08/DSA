@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mayurgarg08/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/mayurgarg08/DSA/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0474-ones-and-zeroes) |
+| [0553-optimal-division](https://github.com/mayurgarg08/DSA/tree/master/0553-optimal-division) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mayurgarg08/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/mayurgarg08/DSA/tree/master/0413-arithmetic-slices) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayurgarg08/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0474-ones-and-zeroes) |
+| [0553-optimal-division](https://github.com/mayurgarg08/DSA/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/mayurgarg08/DSA/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayurgarg08/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/mayurgarg08/DSA/tree/master/0605-can-place-flowers) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/mayurgarg08/DSA/tree/master/0415-add-strings) |
+| [0553-optimal-division](https://github.com/mayurgarg08/DSA/tree/master/0553-optimal-division) |
 | [0976-largest-perimeter-triangle](https://github.com/mayurgarg08/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mayurgarg08/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mayurgarg08/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
