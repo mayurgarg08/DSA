@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/mayurgarg08/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/mayurgarg08/DSA/tree/master/0397-integer-replacement) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mayurgarg08/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/mayurgarg08/DSA/tree/master/0553-optimal-division) |
 | [0976-largest-perimeter-triangle](https://github.com/mayurgarg08/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mayurgarg08/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mayurgarg08/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mayurgarg08/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mayurgarg08/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mayurgarg08/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/mayurgarg08/DSA/tree/master/0415-add-strings) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mayurgarg08/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mayurgarg08/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Number Theory
 |  |
