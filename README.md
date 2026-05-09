@@ -268,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/mayurgarg08/DSA/tree/master/0279-perfect-squares) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/mayurgarg08/DSA/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
