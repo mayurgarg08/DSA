@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayurgarg08/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mayurgarg08/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mayurgarg08/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mayurgarg08/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/mayurgarg08/DSA/tree/master/2615-sum-of-distances) |
 | [2706-buy-two-chocolates](https://github.com/mayurgarg08/DSA/tree/master/2706-buy-two-chocolates) |
 | [3488-closest-equal-element-queries](https://github.com/mayurgarg08/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/mayurgarg08/DSA/tree/master/0415-add-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mayurgarg08/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mayurgarg08/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mayurgarg08/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
