@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/mayurgarg08/DSA/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/mayurgarg08/DSA/tree/master/0415-add-strings) |
 | [0553-optimal-division](https://github.com/mayurgarg08/DSA/tree/master/0553-optimal-division) |
