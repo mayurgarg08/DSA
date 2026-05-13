@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayurgarg08/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0165-compare-version-numbers](https://github.com/mayurgarg08/DSA/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayurgarg08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayurgarg08/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mayurgarg08/DSA/tree/master/0611-valid-triangle-number) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayurgarg08/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0165-compare-version-numbers](https://github.com/mayurgarg08/DSA/tree/master/0165-compare-version-numbers) |
 | [0318-maximum-product-of-word-lengths](https://github.com/mayurgarg08/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayurgarg08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/mayurgarg08/DSA/tree/master/0409-longest-palindrome) |
