@@ -243,10 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayurgarg08/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mayurgarg08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayurgarg08/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mayurgarg08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -310,5 +312,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/mayurgarg08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mayurgarg08/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/mayurgarg08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
