@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/mayurgarg08/DSA/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/mayurgarg08/DSA/tree/master/0365-water-and-jug-problem) |
 | [0415-add-strings](https://github.com/mayurgarg08/DSA/tree/master/0415-add-strings) |
 | [0553-optimal-division](https://github.com/mayurgarg08/DSA/tree/master/0553-optimal-division) |
 | [0976-largest-perimeter-triangle](https://github.com/mayurgarg08/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/mayurgarg08/DSA/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/mayurgarg08/DSA/tree/master/0365-water-and-jug-problem) |
 | [1306-jump-game-iii](https://github.com/mayurgarg08/DSA/tree/master/1306-jump-game-iii) |
 ## Backtracking
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/mayurgarg08/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/mayurgarg08/DSA/tree/master/0257-binary-tree-paths) |
+| [0365-water-and-jug-problem](https://github.com/mayurgarg08/DSA/tree/master/0365-water-and-jug-problem) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/mayurgarg08/DSA/tree/master/0872-leaf-similar-trees) |
