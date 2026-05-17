@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/mayurgarg08/DSA/tree/master/0279-perfect-squares) |
 | [1306-jump-game-iii](https://github.com/mayurgarg08/DSA/tree/master/1306-jump-game-iii) |
 ## Backtracking
@@ -297,12 +298,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/mayurgarg08/DSA/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/mayurgarg08/DSA/tree/master/0872-leaf-similar-trees) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/mayurgarg08/DSA/tree/master/0872-leaf-similar-trees) |
 ## Recursion
 |  |
