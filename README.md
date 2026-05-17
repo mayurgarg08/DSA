@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/mayurgarg08/DSA/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/mayurgarg08/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayurgarg08/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1306-jump-game-iii](https://github.com/mayurgarg08/DSA/tree/master/1306-jump-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayurgarg08/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/mayurgarg08/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mayurgarg08/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/mayurgarg08/DSA/tree/master/0279-perfect-squares) |
+| [1306-jump-game-iii](https://github.com/mayurgarg08/DSA/tree/master/1306-jump-game-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/mayurgarg08/DSA/tree/master/0872-leaf-similar-trees) |
+| [1306-jump-game-iii](https://github.com/mayurgarg08/DSA/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
