@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayurgarg08/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/mayurgarg08/DSA/tree/master/0165-compare-version-numbers) |
+| [0257-binary-tree-paths](https://github.com/mayurgarg08/DSA/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/mayurgarg08/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayurgarg08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/mayurgarg08/DSA/tree/master/0409-longest-palindrome) |
@@ -296,11 +297,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/mayurgarg08/DSA/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/mayurgarg08/DSA/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/mayurgarg08/DSA/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/mayurgarg08/DSA/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/mayurgarg08/DSA/tree/master/0257-binary-tree-paths) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/mayurgarg08/DSA/tree/master/0872-leaf-similar-trees) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/mayurgarg08/DSA/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/mayurgarg08/DSA/tree/master/0257-binary-tree-paths) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/mayurgarg08/DSA/tree/master/0872-leaf-similar-trees) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/mayurgarg08/DSA/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/mayurgarg08/DSA/tree/master/0257-binary-tree-paths) |
 | [0872-leaf-similar-trees](https://github.com/mayurgarg08/DSA/tree/master/0872-leaf-similar-trees) |
 ## Recursion
 |  |
