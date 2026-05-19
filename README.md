@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/mayurgarg08/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/mayurgarg08/DSA/tree/master/0942-di-string-match) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mayurgarg08/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/mayurgarg08/DSA/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mayurgarg08/DSA/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mayurgarg08/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0767-reorganize-string](https://github.com/mayurgarg08/DSA/tree/master/0767-reorganize-string) |
+| [2540-minimum-common-value](https://github.com/mayurgarg08/DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/mayurgarg08/DSA/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/mayurgarg08/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayurgarg08/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayurgarg08/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mayurgarg08/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mayurgarg08/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/mayurgarg08/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mayurgarg08/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/mayurgarg08/DSA/tree/master/2615-sum-of-distances) |
 | [2706-buy-two-chocolates](https://github.com/mayurgarg08/DSA/tree/master/2706-buy-two-chocolates) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/mayurgarg08/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mayurgarg08/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/mayurgarg08/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2540-minimum-common-value](https://github.com/mayurgarg08/DSA/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/mayurgarg08/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Heap (Priority Queue)
 |  |
