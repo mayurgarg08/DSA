@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/mayurgarg08/DSA/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/mayurgarg08/DSA/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/mayurgarg08/DSA/tree/master/2906-construct-product-matrix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mayurgarg08/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/mayurgarg08/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/mayurgarg08/DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayurgarg08/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mayurgarg08/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mayurgarg08/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3099-harshad-number](https://github.com/mayurgarg08/DSA/tree/master/3099-harshad-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mayurgarg08/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mayurgarg08/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mayurgarg08/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mayurgarg08/DSA/tree/master/3783-mirror-distance-of-an-integer) |
