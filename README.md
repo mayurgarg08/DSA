@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/mayurgarg08/DSA/tree/master/0553-optimal-division) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mayurgarg08/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1871-jump-game-vii](https://github.com/mayurgarg08/DSA/tree/master/1871-jump-game-vii) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayurgarg08/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/mayurgarg08/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/mayurgarg08/DSA/tree/master/2615-sum-of-distances) |
 | [2706-buy-two-chocolates](https://github.com/mayurgarg08/DSA/tree/master/2706-buy-two-chocolates) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayurgarg08/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/mayurgarg08/DSA/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/mayurgarg08/DSA/tree/master/2906-construct-product-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mayurgarg08/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
