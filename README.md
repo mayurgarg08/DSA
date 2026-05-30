@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayurgarg08/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/mayurgarg08/DSA/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/mayurgarg08/DSA/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/mayurgarg08/DSA/tree/master/0318-maximum-product-of-word-lengths) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayurgarg08/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
 | [0279-perfect-squares](https://github.com/mayurgarg08/DSA/tree/master/0279-perfect-squares) |
 | [0376-wiggle-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/mayurgarg08/DSA/tree/master/0397-integer-replacement) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
 | [0409-longest-palindrome](https://github.com/mayurgarg08/DSA/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mayurgarg08/DSA/tree/master/0621-task-scheduler) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mayurgarg08/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/mayurgarg08/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayurgarg08/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayurgarg08/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mayurgarg08/DSA/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/mayurgarg08/DSA/tree/master/0238-product-of-array-except-self) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/mayurgarg08/DSA/tree/master/0397-integer-replacement) |
 ## Math
 |  |
@@ -309,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
 | [0692-top-k-frequent-words](https://github.com/mayurgarg08/DSA/tree/master/0692-top-k-frequent-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mayurgarg08/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Interactive
@@ -331,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/mayurgarg08/DSA/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/mayurgarg08/DSA/tree/master/0113-path-sum-ii) |
+| [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/mayurgarg08/DSA/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
