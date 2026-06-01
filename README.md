@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/mayurgarg08/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/mayurgarg08/DSA/tree/master/0942-di-string-match) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mayurgarg08/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayurgarg08/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2540-minimum-common-value](https://github.com/mayurgarg08/DSA/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/mayurgarg08/DSA/tree/master/0942-di-string-match) |
 | [0984-string-without-aaa-or-bbb](https://github.com/mayurgarg08/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [1871-jump-game-vii](https://github.com/mayurgarg08/DSA/tree/master/1871-jump-game-vii) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayurgarg08/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2027-minimum-moves-to-convert-string](https://github.com/mayurgarg08/DSA/tree/master/2027-minimum-moves-to-convert-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mayurgarg08/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mayurgarg08/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/mayurgarg08/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0984-string-without-aaa-or-bbb](https://github.com/mayurgarg08/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mayurgarg08/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayurgarg08/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2027-minimum-moves-to-convert-string](https://github.com/mayurgarg08/DSA/tree/master/2027-minimum-moves-to-convert-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mayurgarg08/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mayurgarg08/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayurgarg08/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayurgarg08/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mayurgarg08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
