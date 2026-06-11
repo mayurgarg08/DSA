@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/mayurgarg08/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1871-jump-game-vii](https://github.com/mayurgarg08/DSA/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayurgarg08/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3660-jump-game-ix](https://github.com/mayurgarg08/DSA/tree/master/3660-jump-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/mayurgarg08/DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/mayurgarg08/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayurgarg08/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3660-jump-game-ix](https://github.com/mayurgarg08/DSA/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mayurgarg08/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mayurgarg08/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mayurgarg08/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
