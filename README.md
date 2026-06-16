@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayurgarg08/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0141-linked-list-cycle](https://github.com/mayurgarg08/DSA/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/mayurgarg08/DSA/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayurgarg08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayurgarg08/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/mayurgarg08/DSA/tree/master/0141-linked-list-cycle) |
 | [0409-longest-palindrome](https://github.com/mayurgarg08/DSA/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mayurgarg08/DSA/tree/master/0621-task-scheduler) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/mayurgarg08/DSA/tree/master/0141-linked-list-cycle) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mayurgarg08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |
