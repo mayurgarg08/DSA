@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mayurgarg08/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/mayurgarg08/DSA/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/mayurgarg08/DSA/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/mayurgarg08/DSA/tree/master/0279-perfect-squares) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mayurgarg08/DSA/tree/master/0050-powx-n) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mayurgarg08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mayurgarg08/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/mayurgarg08/DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
