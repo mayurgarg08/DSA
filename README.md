@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/mayurgarg08/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/mayurgarg08/DSA/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mayurgarg08/DSA/tree/master/0621-task-scheduler) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayurgarg08/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mayurgarg08/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/mayurgarg08/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayurgarg08/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mayurgarg08/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mayurgarg08/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/mayurgarg08/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mayurgarg08/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayurgarg08/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/mayurgarg08/DSA/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayurgarg08/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/mayurgarg08/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mayurgarg08/DSA/tree/master/0621-task-scheduler) |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayurgarg08/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/mayurgarg08/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayurgarg08/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
