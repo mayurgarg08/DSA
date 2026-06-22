@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/mayurgarg08/DSA/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/mayurgarg08/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayurgarg08/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/mayurgarg08/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mayurgarg08/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mayurgarg08/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/mayurgarg08/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayurgarg08/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/mayurgarg08/DSA/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/mayurgarg08/DSA/tree/master/2906-construct-product-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/mayurgarg08/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mayurgarg08/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/mayurgarg08/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/mayurgarg08/DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/mayurgarg08/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mayurgarg08/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/mayurgarg08/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2965-find-missing-and-repeated-values](https://github.com/mayurgarg08/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/mayurgarg08/DSA/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mayurgarg08/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mayurgarg08/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mayurgarg08/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/mayurgarg08/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2906-construct-product-matrix](https://github.com/mayurgarg08/DSA/tree/master/2906-construct-product-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/mayurgarg08/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
