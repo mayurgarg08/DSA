@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/mayurgarg08/DSA/tree/master/0413-arithmetic-slices) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayurgarg08/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0474-ones-and-zeroes) |
+| [0493-reverse-pairs](https://github.com/mayurgarg08/DSA/tree/master/0493-reverse-pairs) |
 | [0553-optimal-division](https://github.com/mayurgarg08/DSA/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/mayurgarg08/DSA/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayurgarg08/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/mayurgarg08/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/mayurgarg08/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/mayurgarg08/DSA/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/mayurgarg08/DSA/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/mayurgarg08/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/mayurgarg08/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mayurgarg08/DSA/tree/master/0875-koko-eating-bananas) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mayurgarg08/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayurgarg08/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/mayurgarg08/DSA/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -472,4 +475,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mayurgarg08/DSA/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mayurgarg08/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mayurgarg08/DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mayurgarg08/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mayurgarg08/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
