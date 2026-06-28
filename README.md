@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mayurgarg08/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mayurgarg08/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mayurgarg08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/mayurgarg08/DSA/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mayurgarg08/DSA/tree/master/0621-task-scheduler) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/mayurgarg08/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/mayurgarg08/DSA/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/mayurgarg08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mayurgarg08/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/mayurgarg08/DSA/tree/master/0413-arithmetic-slices) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mayurgarg08/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mayurgarg08/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mayurgarg08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayurgarg08/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mayurgarg08/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/mayurgarg08/DSA/tree/master/0561-array-partition) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mayurgarg08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/mayurgarg08/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mayurgarg08/DSA/tree/master/0621-task-scheduler) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mayurgarg08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/mayurgarg08/DSA/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mayurgarg08/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/mayurgarg08/DSA/tree/master/0692-top-k-frequent-words) |
@@ -419,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mayurgarg08/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayurgarg08/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mayurgarg08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/mayurgarg08/DSA/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
@@ -547,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mayurgarg08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/mayurgarg08/DSA/tree/master/0692-top-k-frequent-words) |
 ## Combinatorics
 |  |
@@ -572,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mayurgarg08/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mayurgarg08/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
