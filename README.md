@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mayurgarg08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/mayurgarg08/DSA/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/mayurgarg08/DSA/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mayurgarg08/DSA/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mayurgarg08/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mayurgarg08/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/mayurgarg08/DSA/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/mayurgarg08/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mayurgarg08/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/mayurgarg08/DSA/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/mayurgarg08/DSA/tree/master/0561-array-partition) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mayurgarg08/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mayurgarg08/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/mayurgarg08/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/mayurgarg08/DSA/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayurgarg08/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mayurgarg08/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/mayurgarg08/DSA/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayurgarg08/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mayurgarg08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
