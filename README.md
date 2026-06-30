@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayurgarg08/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0901-online-stock-span](https://github.com/mayurgarg08/DSA/tree/master/0901-online-stock-span) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayurgarg08/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mayurgarg08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mayurgarg08/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/mayurgarg08/DSA/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayurgarg08/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0901-online-stock-span](https://github.com/mayurgarg08/DSA/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mayurgarg08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
@@ -611,4 +613,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mayurgarg08/DSA/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/mayurgarg08/DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/mayurgarg08/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
