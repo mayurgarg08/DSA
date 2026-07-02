@@ -1,18 +1,17 @@
 class Solution {
-    private int helper(int idx1, int idx2, String s, String t, int[][] dp) {
-        if(idx1 < 0 || idx2 < 0) return 0;
-        if(dp[idx1][idx2] != -1) return dp[idx1][idx2];
-        if(s.charAt(idx1) == t.charAt(idx2)) return dp[idx1][idx2] = 1 + helper(idx1 - 1, idx2 - 1, s, t, dp);
-        return dp[idx1][idx2] = Math.max(helper(idx1-1, idx2, s, t, dp), helper(idx1, idx2-1, s, t, dp));
-    }
     private int lcs(String s, String t) {
         int n = s.length();
         int m = t.length();
-        int[][] dp = new int[n][m];
-        for(int i = 0; i < n; i++) {
-            Arrays.fill(dp[i], -1);
+        int[][] dp = new int[n+1][m+1];
+        for(int j = 0; j <= m; j++) dp[0][j] = 0;
+        for(int i = 0; i <= n; i++) dp[i][0] = 0;
+        for(int idx1 = 1; idx1 <= n; idx1++) {
+            for(int idx2 = 1; idx2 <= m; idx2++) {
+                if(s.charAt(idx1-1) == t.charAt(idx2-1)) dp[idx1][idx2] = 1 + dp[idx1 - 1][idx2 - 1];
+                else dp[idx1][idx2] = Math.max(dp[idx1-1][idx2], dp[idx1][idx2-1]);
+            }
         }
-        return helper(n-1, m-1, s, t, dp);
+        return dp[n][m];
     }
     private String reverse(String s) {
         StringBuilder rev = new StringBuilder();
