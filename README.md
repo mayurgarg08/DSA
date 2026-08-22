@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mayurgarg08/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mayurgarg08/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/mayurgarg08/DSA/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/mayurgarg08/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mayurgarg08/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/mayurgarg08/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayurgarg08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayurgarg08/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mayurgarg08/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/mayurgarg08/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/mayurgarg08/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mayurgarg08/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayurgarg08/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/mayurgarg08/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/mayurgarg08/DSA/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/mayurgarg08/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/mayurgarg08/DSA/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/mayurgarg08/DSA/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/mayurgarg08/DSA/tree/master/0365-water-and-jug-problem) |
