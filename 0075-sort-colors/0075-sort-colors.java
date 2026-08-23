@@ -1,12 +1,13 @@
 class Solution {
-    private void swap(int[] arr, int first, int second) {
-        int temp = arr[first];
-        arr[first] = arr[second];
-        arr[second] = temp;
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+        return;
     }
     public void sortColors(int[] nums) {
         int n = nums.length;
-        int low = 0;
+        int low = 0; 
         int mid = 0;
         int high = n-1;
         while(mid <= high) {
@@ -20,6 +21,6 @@ class Solution {
                 swap(nums, mid, high);
                 high--;
             }
-        } 
+        }
     }
 }
