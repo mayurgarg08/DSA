@@ -1,11 +1,11 @@
 class Solution {
-    private List<Integer> generateRow(int i) {
+    private List<Integer> generateRows(int i) {
         List<Integer> temp = new ArrayList<>();
         int ans = 1;
         temp.add(ans);
         for(int j = 1; j < i; j++) {
             ans = ans * (i-j);
-            ans = ans/j;
+            ans = ans / j;
             temp.add(ans);
         }
         return temp;
@@ -17,7 +17,7 @@ class Solution {
        ans.add(new ArrayList<>(temp));
        if(numRows == 1) return ans;
        for(int i = 2; i <= numRows; i++) {
-          ans.add(generateRow(i));
+          ans.add(generateRows(i));
        }
        return ans;
     }
