@@ -4,25 +4,27 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         Arrays.sort(nums);
         for(int i = 0; i < n; i++) {
-            if(i > 0 && nums[i-1] == nums[i]) continue;
+            if(i > 0 && nums[i] == nums[i-1]) continue; 
             int j = i+1;
-            int k = n-1;
-            while(j < k) {
-                int sum = nums[j] + nums[k];
-                sum += nums[i];
-                if(sum == 0) {
-                    List<Integer> temp = new ArrayList<>();
-                    temp.add(nums[i]);
-                    temp.add(nums[j]);
-                    temp.add(nums[k]);
-                    ans.add(temp);
-                    j++;
-                    k--;
-                    while(j < k && nums[j] == nums[j-1]) j++;
-                    while(j < k && nums[k] == nums[k+1]) k--;
-                } else if(sum < 0) j++;
-                  else k--;
-            }
+        int k = n-1;
+        int sum = 0;
+        while(j < k) {
+            sum = nums[i] + nums[j];
+            sum += nums[k];
+            if(sum == 0) {
+                List<Integer> temp = new ArrayList<>();
+                temp.add(nums[i]);
+                temp.add(nums[j]);
+                temp.add(nums[k]);
+                ans.add(new ArrayList<>(temp));
+                j++;
+                k--;
+                while(j < k && nums[j] == nums[j-1]) j++;
+                while(j < k && nums[k] == nums[k+1]) k--;
+            } else if(sum < 0) j++;
+            else k--;
+        }
+        
         }
         return ans;
     }
