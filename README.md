@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/mayurgarg08/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mayurgarg08/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1370-increasing-decreasing-string](https://github.com/mayurgarg08/DSA/tree/master/1370-increasing-decreasing-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayurgarg08/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1871-jump-game-vii](https://github.com/mayurgarg08/DSA/tree/master/1871-jump-game-vii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayurgarg08/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2027-minimum-moves-to-convert-string](https://github.com/mayurgarg08/DSA/tree/master/2027-minimum-moves-to-convert-string) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0901-online-stock-span](https://github.com/mayurgarg08/DSA/tree/master/0901-online-stock-span) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayurgarg08/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mayurgarg08/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mayurgarg08/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -669,4 +671,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mayurgarg08/DSA/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayurgarg08/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
