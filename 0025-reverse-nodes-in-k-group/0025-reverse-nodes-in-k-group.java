@@ -9,10 +9,7 @@
  * }
  */
 class Solution {
-    private ListNode reverseLL(ListNode head) {
-        if(head == null || head.next == null) {
-            return head;
-        }
+    private void reverseLL(ListNode head) {
         ListNode prev = null;
         ListNode curr = head;
         while(curr != null) {
@@ -21,35 +18,31 @@ class Solution {
             prev = curr;
             curr = next;
         }
-        return prev;
-    }
-    private ListNode getKthNode(ListNode temp, int k) {
-        k -= 1;
-        while(temp != null && k > 0) {
-            k--;
-            temp = temp.next;
-        } 
-        return temp;
+        return;
     }
     public ListNode reverseKGroup(ListNode head, int k) {
+        int count = 0;
         ListNode temp = head;
-        ListNode prev = null;
-        while(temp != null) {
-            ListNode kthNode = getKthNode(temp, k);
-            if(kthNode == null) {
-               if(prev != null) prev.next = temp;
-               break;
+        ListNode curr = head;
+        ListNode last = null;
+        while(curr != null) {
+            ++count;
+             
+            if(count%k == 0) {
+                ListNode kthNode = curr;
+                ListNode nextNode = curr.next;
+                kthNode.next = null;
+                if(temp == head) head = kthNode;
+                
+                reverseLL(temp);
+                if(last != null) last.next = kthNode;
+                last = temp;
+                
+                temp.next = nextNode;
+                curr = nextNode;
+                temp = nextNode;
             }
-            ListNode next = kthNode.next;
-            kthNode.next = null;
-            reverseLL(temp);
-            if(temp == head) {
-                head = kthNode;
-            } else {
-                prev.next = kthNode;
-            }
-            prev = temp;
-            temp = next;
+            else curr = curr.next;
         }
         return head;
     }
