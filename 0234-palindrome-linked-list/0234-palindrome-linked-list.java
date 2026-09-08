@@ -10,7 +10,6 @@
  */
 class Solution {
     private ListNode reverseLL(ListNode head) {
-        if(head == null || head.next == null) return head;
         ListNode prev = null;
         ListNode curr = head;
         while(curr != null) {
@@ -22,20 +21,23 @@ class Solution {
         return prev;
     }
     public boolean isPalindrome(ListNode head) {
-        if(head == null || head.next == null) return true;
         ListNode slow = head;
         ListNode fast = head;
-        while(fast.next != null && fast.next.next != null) {
+        ListNode temp = head;
+        while(fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        slow.next = reverseLL(slow.next);
-        slow = slow.next;
-        fast = head;
-        while(slow != null) {
-            if(fast.val != slow.val) return false;
+        if(fast != null) {
             slow = slow.next;
-            fast = fast.next;
+        }    
+        ListNode ptr = reverseLL(slow);
+        while(ptr != null) {
+            if(temp.val != ptr.val) {
+                return false;
+            }
+            ptr = ptr.next;
+            temp = temp.next;
         }
         return true;
     }
