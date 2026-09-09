@@ -15,39 +15,35 @@ class Node {
 
 class Solution {
     private void insertCopy(Node head) {
-         Node temp = head;
-         while(temp != null) {
-            Node copy = new Node(temp.val);
-            copy.next = temp.next;
-            temp.next = copy;
-            temp = temp.next.next;
-         }
+        Node curr = head;
+        while(curr != null) {
+            Node copy = new Node(curr.val, curr.next);
+            curr.next = copy;
+            curr = curr.next.next;
+        }
     }
     private void connectRandom(Node head) {
-        Node temp = head;
-        while(temp != null) {
-            if(temp.random != null) {
-                temp.next.random = temp.random.next;
-            }
-            temp = temp.next.next;
+        Node curr = head;
+        while(curr != null) {
+            if(curr.random != null) curr.next.random = curr.random.next;
+            curr = curr.next.next;
         }
     }
-    private Node getDeepCopy(Node head) {
-        Node dummy = new Node(-1);
-        Node res = dummy;
-        Node temp = head;
-        while(temp != null) {
-            res.next = temp.next;
-            temp.next = temp.next.next;
-
-            res = res.next;
-            temp = temp.next;
+    private Node getdeepCopy(Node head) {
+        Node copyHead = head.next;
+        Node curr = head;
+        while(curr != null) {
+            Node copy = curr.next;
+            curr.next = copy.next;
+            if(curr.next != null) copy.next = curr.next.next;
+            curr = curr.next;
         }
-        return dummy.next;
+        return copyHead;
     }
     public Node copyRandomList(Node head) {
+         if(head == null) return null;
         insertCopy(head);
         connectRandom(head);
-        return getDeepCopy(head);
+        return getdeepCopy(head);
     }
 }
