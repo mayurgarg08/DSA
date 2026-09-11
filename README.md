@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mayurgarg08/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mayurgarg08/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mayurgarg08/DSA/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/mayurgarg08/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/mayurgarg08/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mayurgarg08/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mayurgarg08/DSA/tree/master/0239-sliding-window-maximum) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/mayurgarg08/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/mayurgarg08/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
+| [0216-combination-sum-iii](https://github.com/mayurgarg08/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/mayurgarg08/DSA/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
