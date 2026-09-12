@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayurgarg08/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mayurgarg08/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mayurgarg08/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/mayurgarg08/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/mayurgarg08/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/mayurgarg08/DSA/tree/master/0165-compare-version-numbers) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayurgarg08/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mayurgarg08/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/mayurgarg08/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayurgarg08/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayurgarg08/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/mayurgarg08/DSA/tree/master/0088-merge-sorted-array) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mayurgarg08/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayurgarg08/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/mayurgarg08/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayurgarg08/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/mayurgarg08/DSA/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/mayurgarg08/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mayurgarg08/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mayurgarg08/DSA/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/mayurgarg08/DSA/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/mayurgarg08/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mayurgarg08/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/mayurgarg08/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/mayurgarg08/DSA/tree/master/0131-palindrome-partitioning) |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mayurgarg08/DSA/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/mayurgarg08/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/mayurgarg08/DSA/tree/master/0257-binary-tree-paths) |
