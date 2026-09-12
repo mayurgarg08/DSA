@@ -7,12 +7,12 @@ class Solution {
             row--;
         }
         row = dupRow;
-        col = dupCol;
         while(row >= 0 && col >= 0) {
             if(board[row][col] == 'Q') return false;
-            row--;
-            col--;
-            
+            else {
+                row--;
+                col--;
+            }
         }
         row = dupRow;
         col = dupCol;
@@ -23,30 +23,30 @@ class Solution {
         }
         return true;
     }
-    private void solve(int row, List<List<String>> ans, char[][] board, int n) {
+    private void solve(int row, char[][] board, List<List<String>> ans, int n) {
         if(row == n) {
-          List<String> temp = new ArrayList<>();
-          for(int i = 0; i < n; i++) {
-            temp.add(new String(board[i]));
-          }
-          ans.add(temp);
-          return;
+           List<String> temp =new ArrayList<>();
+           for(int i = 0; i < n; i++) {
+             temp.add(new String(board[i]));
+           } 
+           ans.add(new ArrayList<>(temp));
+           return;
         }
         for(int col = 0; col < n; col++) {
             if(isSafe(board, row, col, n)) {
-               board[row][col] = 'Q';
-               solve(row+1, ans, board, n);
-               board[row][col] = '.';
+                board[row][col] = 'Q';
+                solve(row+1, board, ans, n);
+                board[row][col] = '.';
             }
         }
     }
     public List<List<String>> solveNQueens(int n) {
-        char[][] board = new char[n][n];
-        List<List<String>> ans = new ArrayList<>();
-        for(int i = 0; i < n; i++) {
-            Arrays.fill(board[i], '.');
-        }
-        solve(0, ans, board, n);
-        return ans;
+      List<List<String>> ans = new ArrayList<>();
+      char[][] board = new char[n][n];
+      for(int i = 0; i < n; i++) {
+        Arrays.fill(board[i], '.');
+      }
+      solve(0, board, ans, n);
+      return ans;
     } 
 }
