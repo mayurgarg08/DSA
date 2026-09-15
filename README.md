@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/mayurgarg08/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mayurgarg08/DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/mayurgarg08/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/mayurgarg08/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1370-increasing-decreasing-string](https://github.com/mayurgarg08/DSA/tree/master/1370-increasing-decreasing-string) |
 | [2540-minimum-common-value](https://github.com/mayurgarg08/DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/mayurgarg08/DSA/tree/master/2615-sum-of-distances) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mayurgarg08/DSA/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/mayurgarg08/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/mayurgarg08/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/mayurgarg08/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/mayurgarg08/DSA/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/mayurgarg08/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/mayurgarg08/DSA/tree/master/0994-rotting-oranges) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mayurgarg08/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/mayurgarg08/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mayurgarg08/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/mayurgarg08/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayurgarg08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/mayurgarg08/DSA/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/mayurgarg08/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mayurgarg08/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/mayurgarg08/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/mayurgarg08/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayurgarg08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/mayurgarg08/DSA/tree/master/1871-jump-game-vii) |
 ## Trie
