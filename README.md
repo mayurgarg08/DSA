@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mayurgarg08/DSA/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/mayurgarg08/DSA/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/mayurgarg08/DSA/tree/master/0397-integer-replacement) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mayurgarg08/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayurgarg08/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mayurgarg08/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/mayurgarg08/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/mayurgarg08/DSA/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayurgarg08/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
