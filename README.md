@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/mayurgarg08/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/mayurgarg08/DSA/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/mayurgarg08/DSA/tree/master/0365-water-and-jug-problem) |
+| [0547-number-of-provinces](https://github.com/mayurgarg08/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mayurgarg08/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/mayurgarg08/DSA/tree/master/0365-water-and-jug-problem) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mayurgarg08/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/mayurgarg08/DSA/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mayurgarg08/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mayurgarg08/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mayurgarg08/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/mayurgarg08/DSA/tree/master/0547-number-of-provinces) |
 ## Quickselect
 |  |
 | ------- |
@@ -887,4 +890,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayurgarg08/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mayurgarg08/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
