@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mayurgarg08/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mayurgarg08/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mayurgarg08/DSA/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/mayurgarg08/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/mayurgarg08/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/mayurgarg08/DSA/tree/master/0165-compare-version-numbers) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mayurgarg08/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/mayurgarg08/DSA/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/mayurgarg08/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/mayurgarg08/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/mayurgarg08/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/mayurgarg08/DSA/tree/master/0140-word-break-ii) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mayurgarg08/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mayurgarg08/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/mayurgarg08/DSA/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/mayurgarg08/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/mayurgarg08/DSA/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/mayurgarg08/DSA/tree/master/0279-perfect-squares) |
@@ -930,4 +933,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/mayurgarg08/DSA/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/mayurgarg08/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
