@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/mayurgarg08/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mayurgarg08/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1871-jump-game-vii](https://github.com/mayurgarg08/DSA/tree/master/1871-jump-game-vii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mayurgarg08/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mayurgarg08/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/mayurgarg08/DSA/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mayurgarg08/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -928,11 +929,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mayurgarg08/DSA/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mayurgarg08/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mayurgarg08/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mayurgarg08/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mayurgarg08/DSA/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/mayurgarg08/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mayurgarg08/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -954,4 +957,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mayurgarg08/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mayurgarg08/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mayurgarg08/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
