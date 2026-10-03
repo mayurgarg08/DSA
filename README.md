@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/mayurgarg08/DSA/tree/master/0553-optimal-division) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mayurgarg08/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/mayurgarg08/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mayurgarg08/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mayurgarg08/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/mayurgarg08/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/mayurgarg08/DSA/tree/master/1143-longest-common-subsequence) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mayurgarg08/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/mayurgarg08/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mayurgarg08/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mayurgarg08/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/mayurgarg08/DSA/tree/master/0767-reorganize-string) |
 | [0942-di-string-match](https://github.com/mayurgarg08/DSA/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/mayurgarg08/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mayurgarg08/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/mayurgarg08/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/mayurgarg08/DSA/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mayurgarg08/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/mayurgarg08/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/mayurgarg08/DSA/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/mayurgarg08/DSA/tree/master/0875-koko-eating-bananas) |
