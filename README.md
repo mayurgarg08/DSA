@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/mayurgarg08/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/mayurgarg08/DSA/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/mayurgarg08/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mayurgarg08/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mayurgarg08/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mayurgarg08/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/mayurgarg08/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/mayurgarg08/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/mayurgarg08/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mayurgarg08/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mayurgarg08/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayurgarg08/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/mayurgarg08/DSA/tree/master/1306-jump-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mayurgarg08/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/mayurgarg08/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mayurgarg08/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mayurgarg08/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mayurgarg08/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/mayurgarg08/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/mayurgarg08/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2906-construct-product-matrix](https://github.com/mayurgarg08/DSA/tree/master/2906-construct-product-matrix) |
