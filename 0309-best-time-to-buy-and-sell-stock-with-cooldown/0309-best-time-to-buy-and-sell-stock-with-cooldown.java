@@ -12,22 +12,26 @@ class Solution {
     //  }
       public int maxProfit(int[] prices) {
         int n = prices.length;
-        int[][] dp = new int[n+2][2];
-        dp[n][0] = 0;
-        dp[n+1][0] = 0;
-        dp[n][1] = 0;
-        dp[n+1][1] = 0;
+        int[] next = new int[2];
+        int[] next2 = new int[2];
+        next[0] = 0;
+        next2[0] = 0;
+        next[1] = 0;
+        next2[1] = 0;
         for(int idx = n-1; idx >= 0; idx--) {
+            int[] curr = new int[2];
             for(int buy = 0; buy < 2; buy++) {
                int profit;
                if(buy == 1) {
-                  profit = Math.max(-prices[idx] + dp[idx+1][0], 0 + dp[idx+1][1]);
+                  profit = Math.max(-prices[idx] + next[0], 0 + next[1]);
                } else {
-                    profit = Math.max(prices[idx]+ dp[idx+2][1], 0 + dp[idx+1][0]);
+                    profit = Math.max(prices[idx]+ next2[1], 0 + next[0]);
                 }
-                dp[idx][buy] = profit;
+                curr[buy] = profit;
             }
+            next2 = next;
+            next = curr;
         }
-        return dp[0][1];
+        return next[1];
     }   
 }
