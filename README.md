@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/mayurgarg08/DSA/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/mayurgarg08/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/mayurgarg08/DSA/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/mayurgarg08/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mayurgarg08/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/mayurgarg08/DSA/tree/master/0542-01-matrix) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mayurgarg08/DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/mayurgarg08/DSA/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/mayurgarg08/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mayurgarg08/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayurgarg08/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mayurgarg08/DSA/tree/master/0455-assign-cookies) |
@@ -1011,4 +1013,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mayurgarg08/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/mayurgarg08/DSA/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/mayurgarg08/DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
