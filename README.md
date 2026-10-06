@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mayurgarg08/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/mayurgarg08/DSA/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/mayurgarg08/DSA/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mayurgarg08/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/mayurgarg08/DSA/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0376-wiggle-subsequence) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mayurgarg08/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mayurgarg08/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mayurgarg08/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mayurgarg08/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0318-maximum-product-of-word-lengths](https://github.com/mayurgarg08/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/mayurgarg08/DSA/tree/master/0322-coin-change) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mayurgarg08/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/mayurgarg08/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mayurgarg08/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/mayurgarg08/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/mayurgarg08/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/mayurgarg08/DSA/tree/master/0410-split-array-largest-sum) |
@@ -1030,4 +1033,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/mayurgarg08/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/mayurgarg08/DSA/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/mayurgarg08/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
