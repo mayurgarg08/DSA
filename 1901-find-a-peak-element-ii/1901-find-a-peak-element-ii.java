@@ -1,41 +1,29 @@
 class Solution {
-    private int maxElement(int[][] mat, int col) {
-        int n = mat.length;
-        int maxRow = 0;
-
+    private int findMax(int col, int[][] mat, int n, int m) {
+        int maxEl = Integer.MIN_VALUE;
+        int ans = -1;
         for(int i = 0; i < n; i++) {
-            if(mat[i][col] > mat[maxRow][col]) {
-                maxRow = i;
+            if(mat[i][col] > maxEl) {
+                maxEl = mat[i][col];
+                ans = i;
             }
         }
-        return maxRow;
+        return ans;
     }
-
     public int[] findPeakGrid(int[][] mat) {
-        int n = mat.length;
-        int m = mat[0].length;
-
-        int low = 0, high = m - 1;
-
-        while(low <= high) {
-            int mid = (low + high) / 2;
-
-            int maxRow = maxElement(mat, mid);
-
-            int left = mid - 1 >= 0 ? mat[maxRow][mid - 1] : Integer.MIN_VALUE;
-            int right = mid + 1 < m ? mat[maxRow][mid + 1] : Integer.MIN_VALUE;
-
-            if(mat[maxRow][mid] > left && mat[maxRow][mid] > right) {
-                return new int[]{maxRow, mid};
-            } 
-            else if(mat[maxRow][mid] < left) {
-                high = mid - 1;
-            } 
-            else {
-                low = mid + 1;
-            }
-        }
-
-        return new int[]{-1, -1};
+       int n = mat.length;
+       int m = mat[0].length;
+       int low = 0;
+       int high = m-1;
+       while(low <= high) {
+         int mid = (low+high)/2;
+         int row = findMax(mid, mat, n, m);
+         int left = mid-1 >= 0? mat[row][mid-1] : -1;
+         int right = mid+1 < m? mat[row][mid+1] : -1;
+         if(mat[row][mid] > left && mat[row][mid] > right) return new int[]{row, mid};
+         else if(mat[row][mid] < left) high = mid-1;
+         else low = mid + 1;
+       }
+       return new int[]{-1, -1};
     }
 }
