@@ -1,43 +1,43 @@
 class Solution {
-     private int  noStudents(int[] nums, int pages) {
-        int students = 1;
-        int pageStudents = 0;
-        for(int num: nums) {
-            if(pageStudents + num <= pages) {
-                pageStudents += num;
+    private int findMax(int[] nums) {
+        int max = Integer.MIN_VALUE;
+        for(int it: nums) {
+            max = Math.max(it, max);
+        }
+        return max;
+    }
+    private int findSum(int[] nums) {
+        int total = 0;
+        for(int it: nums) {
+            total += it;
+        }
+        return total;
+    }
+    private boolean isPossible(int mid, int[] nums, int k) {
+        int subarrays = 1;
+        int sum = 0;
+        for(int it: nums) {
+            if(sum + it <= mid) {
+                sum += it;
             } else {
-                students++;
-                pageStudents = num;
+                subarrays++;
+                sum = it;
             }
         }
-        return students;
-    }
-    private int max(int[] nums) {
-        int maxi = Integer.MIN_VALUE;
-        for(int num : nums) {
-            maxi = Math.max(maxi, num);
-        }
-        return maxi;
-    } 
-    private int sum(int[] nums) {
-        int sum = 0;
-        for(int  num: nums) {
-            sum += num;
-        }
-        return sum;
-    }
-    public int findPages(int[] nums, int m) {
-         int low = max(nums);
-         int high = sum(nums);
-         while(low <= high) {
-            int mid = (high+low)/2;
-            int cntStudents = noStudents(nums, mid);
-            if(cntStudents > m) low = mid+1;
-            else high = mid-1; 
-         }
-         return low;
+        return subarrays <= k;
     }
     public int splitArray(int[] nums, int k) {
-        return findPages(nums, k);
+        int n = nums.length;
+        int low = findMax(nums);
+        int high = findSum(nums);
+        while(low < high) {
+            int mid = (low+high)/2;
+            if(isPossible(mid, nums, k)) {
+                high = mid;
+            } else {
+                low = mid+1;
+            }
+        }
+        return low;
     }
 }
