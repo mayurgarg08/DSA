@@ -1,30 +1,32 @@
 class Solution {
-    private int maxi(int[] piles) {
-        int maxim = Integer.MIN_VALUE;
-        for(int num: piles) {
-            maxim = Math.max(maxim, num);
+    private int cntHours(int[] piles, int mid) {
+        int hrs = 0;
+        for(int i = 0; i < piles.length; i++) {
+            hrs += Math.ceil((double)(piles[i])/(double)(mid));
         }
-        return maxim;
+        return hrs;
     }
-    private int calHours(int[] piles, int mid) {
-        int totHours = 0;
-        for(int num: piles) {
-            totHours += Math.ceil((double)(num)/ (double)(mid));
+    private int maxEl(int[] arr) {
+        int n = arr.length;
+        int maxEl = Integer.MIN_VALUE;
+        for(int i = 0; i < n; i++) {
+            maxEl = Math.max(maxEl, arr[i]);
         }
-        return totHours;
+        return maxEl;
     }
     public int minEatingSpeed(int[] piles, int h) {
-        int low = 1;
-        int high = maxi(piles);
-        int ans = 0;
-        while(low <= high) {
-            int mid = (high+low)/2;
-            int val = calHours(piles, mid);
-            if(val <= h) {
-                ans = mid;
-                high = mid-1;
-            } else low = mid+1;
-        }
-        return ans;
+       int n = piles.length;
+       int low = 1;
+       int high = maxEl(piles);
+       while(low <= high) {
+          int mid = (low+high)/2;
+          int hrs = cntHours(piles, mid);
+          if(hrs > h) {
+            low = mid+1;
+          } else {
+            high = mid-1;
+          }
+       }
+       return low;
     }
 }
