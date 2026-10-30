@@ -1,23 +1,23 @@
 class Solution {
     private int atMost(int[] nums, int goal) {
         if(goal < 0) return 0;
-        int l = 0;
-        int r = 0;
-        int n = nums.length;
-        int count = 0;
-        int sum = 0; 
-        while(r < n) {
-           sum += nums[r];
-           while(sum > goal) {
-             sum -= nums[l];
-             l++;
-           }
-           count += (r-l+1);
-           r++;
+        int left = 0;
+        int right = 0;
+        int ans = 0;
+        int sum = 0;
+        while(right < nums.length) {
+            sum += nums[right];
+            while(sum > goal) {
+                sum -= nums[left];
+                left++;
+            }
+            ans += right - left + 1;
+            right++;
         }
-        return count;
-    } 
+        return ans;
+    }
     public int numSubarraysWithSum(int[] nums, int goal) {
-        return atMost(nums, goal) - atMost(nums, goal-1);
+       int n = nums.length;
+       return atMost(nums, goal) - atMost(nums, goal-1);
     }
 }
