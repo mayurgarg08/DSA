@@ -1,4 +1,46 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# DSA: LeetCode Solutions in Java
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-mayur__garg05-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/mayur_garg05/)
+![Language](https://img.shields.io/badge/Language-Java-orange?logo=openjdk)
+![Problems](https://img.shields.io/badge/Problems-270%2B-blue)
+
+My LeetCode solutions in **Java**: 270+ problems with statements in the root folders, plus my full submission history in `problems/`. Everything is synced automatically from my [LeetCode profile](https://leetcode.com/u/mayur_garg05/).
+
+| Difficulty | Problems with statements |
+| --- | --- |
+| 🟢 Easy | 90 |
+| 🟡 Medium | 160 |
+| 🔴 Hard | 24 |
+
+*(Counts as of October 2026.)*
+
+## Repository layout
+
+Each problem has its own folder named `NNNN-problem-slug/` that contains:
+
+- `README.md`: the problem statement
+- `NNNN-problem-slug.java`: my accepted solution
+
+```
+0001-two-sum/
+  README.md
+  0001-two-sum.java
+```
+
+The `problems/` folder holds about 440 more solutions (`problems/<slug>/solution.java`), imported from my full LeetCode submission history by the daily sync action.
+
+## Topics covered
+
+Arrays, strings, two pointers, sliding window, hashing, binary search, stacks and monotonic stacks, queues, linked lists, trees, BSTs, tries, heaps, graphs (BFS/DFS, topological sort, shortest paths, union-find), backtracking, greedy, dynamic programming (knapsack, LIS, LCS, DP on trees), bit manipulation, math, segment trees and more. The full index by topic is below.
+
+## How it's synced
+
+- Solutions are pushed with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) when I submit on LeetCode.
+- A daily GitHub Action (`.github/workflows/sync.yml`) also runs [leetcode-sync](https://github.com/joshcai/leetcode-sync).
+- The topic index below is generated automatically. **Don't edit anything between the `LeetCode Topics` markers by hand.**
+
+---
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
