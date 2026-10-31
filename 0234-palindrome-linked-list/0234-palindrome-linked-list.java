@@ -21,24 +21,20 @@ class Solution {
         return prev;
     }
     public boolean isPalindrome(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-        ListNode temp = head;
-        while(fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        if(fast != null) {
-            slow = slow.next;
-        }    
-        ListNode ptr = reverseLL(slow);
-        while(ptr != null) {
-            if(temp.val != ptr.val) {
-                return false;
-            }
-            ptr = ptr.next;
-            temp = temp.next;
-        }
-        return true;
+       ListNode slow = head;
+       ListNode fast = head.next;
+       while(fast != null && fast.next != null) {
+         slow = slow.next;
+         fast = fast.next.next;
+       }
+       ListNode newHead = reverseLL(slow.next);
+       ListNode ptr1 = head;
+       ListNode ptr2 = newHead;
+       while(ptr1 != null && ptr2 != null) {
+          if(ptr1.val != ptr2.val) return false;
+          ptr1 = ptr1.next;
+          ptr2 = ptr2.next;
+       }
+       return true;
     }
 }
