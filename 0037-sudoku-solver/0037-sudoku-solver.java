@@ -1,19 +1,19 @@
 class Solution {
-    private boolean isPossible(int row, int col, char c, char[][] board) {
-        for(int i = 0; i  < 9; i++) {
-            if(board[row][i] == c) return false;
-            if(board[i][col] == c) return false;
-            if(board[3 * (row/3) + i/3][3 * (col/3) + i % 3] == c) return false;
+    private boolean isPossible(int i, int j, int k, char[][] board) {
+        for(int l = 0; l < 9; l++) {
+            if(board[i][l]-'0' == k) return false;
+            if(board[l][j]-'0' == k) return false;
+            if(board[3 * (i/3) + l/3][3 * (j/3) + l%3]-'0' == k) return false;
         }
         return true;
     }
     private boolean solve(char[][] board) {
-        for(int i = 0; i < 9; i++) {
+        for(int i = 0; i < 9; i++){
             for(int j = 0; j < 9; j++) {
                 if(board[i][j] == '.') {
-                    for(char c = '1'; c <= '9'; c++) {
-                        if(isPossible(i, j, c, board)) {
-                            board[i][j] = c;
+                    for(int k = 1; k <= 9; k++) {
+                        if(isPossible(i, j, k, board)) {
+                            board[i][j] = (char)(k+'0');
                             if(solve(board) == true) return true;
                             else board[i][j] = '.';
                         }
