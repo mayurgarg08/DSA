@@ -18,21 +18,23 @@ class Solution {
        if(root == null) return new TreeNode(val);
        TreeNode curr = root;
        while(true) {
-         if(curr.val <= val) {
-            if(curr.right != null) {
-               curr = curr.right;
-            } else {
-               curr.right = new TreeNode(val);
-               break;
-            }
-         } else {
-            if(curr.left != null) {
-                curr = curr.left;
-            } else {
-                curr.left = new TreeNode(val);
-                break;
-            }
-         }
+             if(curr.val <= val) {
+                if(curr.right != null) {
+                    curr = curr.right;
+                } else {
+                    TreeNode temp = new TreeNode(val);
+                    curr.right = temp;
+                    break;
+                } 
+             } else {
+                    if(curr.left != null) {
+                        curr = curr.left;
+                    } else {
+                        TreeNode temp = new TreeNode(val);
+                        curr.left = temp;
+                        break;
+                    }
+                }
        }
        return root;
     } 
