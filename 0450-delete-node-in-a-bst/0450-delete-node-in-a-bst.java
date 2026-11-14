@@ -14,21 +14,18 @@
  * }
  */
 class Solution {
-    private TreeNode findRightMost(TreeNode node) {
-        if(node.right == null) return node;
-        return findRightMost(node.right);
+    private TreeNode rightMost(TreeNode root) {
+        if(root.right == null) return root;
+        return rightMost(root.right);
     }
-    private TreeNode helper(TreeNode node) {
-        if(node.right == null) {
-            return node.left;
-        }
-        if(node.left == null) {
-            return node.right;
-        }
-        TreeNode right = node.right;
-        TreeNode rightMost = findRightMost(node.left);
-        rightMost.right = right;
-        return node.left;
+    private TreeNode helper(TreeNode root) {
+        if(root == null) return root;
+        if(root.left == null) return root.right;
+        if(root.right == null) return root.left;
+        TreeNode right = root.right;
+        TreeNode leftRightMost = rightMost(root.left);
+        leftRightMost.right = right;
+        return root.left;
     }
     public TreeNode deleteNode(TreeNode root, int key) {
         if(root == null) return root;
@@ -37,10 +34,10 @@ class Solution {
         while(curr != null) {
             if(curr.val > key) {
                 if(curr.left != null && curr.left.val == key) {
-                    curr.left = helper(curr.left);
-                    break;
+                   curr.left = helper(curr.left);
+                   break;
                 } else {
-                    curr = curr.left;
+                   curr = curr.left;
                 }
             } else {
                 if(curr.right != null && curr.right.val == key) {
