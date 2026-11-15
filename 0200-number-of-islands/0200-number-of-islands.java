@@ -1,17 +1,16 @@
 class Solution {
-    private void dfs(int i, int j, int n, int m, int[][] vis, char[][] grid) {
+    private void dfs(int i, int j, int[][] vis, char[][] grid, int n, int m) {
         vis[i][j] = 1;
-        int[] di = {-1, 0, 1, 0};
-        int[] dj = {0, 1, 0, -1};
-
+        int[] dr = {-1, 0, 1, 0};
+        int[] dc = {0, 1, 0, -1};
         for(int k = 0; k < 4; k++) {
-            int drow = i + di[k];
-            int dcol = j + dj[k];
+            int drow = i + dr[k];
+            int dcol = j + dc[k];
 
-            if(drow >= 0 && drow < n && dcol < m && dcol >= 0 && grid[drow][dcol] == '1' && vis[drow][dcol] == 0) {
-                dfs(drow, dcol, n, m, vis, grid);
+            if(drow < n && drow >= 0 && dcol >= 0 && dcol < m && vis[drow][dcol] == 0 && grid[drow][dcol] == '1') {
+                dfs(drow, dcol, vis, grid, n, m);
             }
-        } 
+        }
     }
     public int numIslands(char[][] grid) {
         int n = grid.length;
@@ -20,10 +19,10 @@ class Solution {
         int count = 0;
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
-              if(grid[i][j] == '1' && vis[i][j] == 0) {
-                 count++;
-                 dfs(i, j, n, m, vis, grid);
-              }
+                if(grid[i][j] == '1' && vis[i][j] == 0) {
+                    count++;
+                    dfs(i, j, vis, grid, n, m);
+                }   
             }
         }
         return count;
